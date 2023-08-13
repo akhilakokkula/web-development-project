@@ -1,0 +1,55 @@
+body
+{
+    
+    background-image: linear-gradient(to right top, #10141b, #10181c, #131c1c, #191f1b, #20211d);
+}
+.calculator{
+    text-align: end;
+}
+h1*{
+    display: flex;
+    justify-content: center;
+    color:#ffff;
+    
+    margin-top: 23px;
+    margin-left: 60vh;
+    font-size: 50px;
+}
+  
+.calculator{
+    width: 100vh;
+height: 100vh;
+
+}
+form{
+    position: relative;
+    text-align: center;
+    
+}
+
+button{
+    padding: 0.5rem;
+    min-width: 10vh;
+    min-height: 10vh;
+    
+}
+button{
+    background-color: #d3d3d3;
+    width: 30px;
+    
+}
+#screen{
+    
+    width: 41.4vh;
+    border-style: double;
+    margin-right: 2px;
+    
+    border-color: black;
+    
+    
+}
+
+    
+
+    
+    
